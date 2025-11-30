@@ -57,6 +57,10 @@
     margin: 3px;
   }
 
+  .page-links:hover {
+    color: rgb(156, 156, 156);
+  }
+
   .fa-circle {
     color: white;
     font-size: 12px;
@@ -70,5 +74,10 @@
     text-decoration: none;
 
     margin-right: 20px;
+  }
+
+  .buttons:hover {
+    background-color: #222;
+    cursor: pointer;
   }
 </style>
