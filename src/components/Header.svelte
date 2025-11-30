@@ -12,11 +12,8 @@
     <div class="center">
       <ul>
         <a class="page-links" href="">Learn More</a>
-        <i class="fa-solid fa-circle"></i>
         <a class="page-links" href="">Features</a>
-        <i class="fa-solid fa-circle"></i>
         <a class="page-links" href="">Pricing</a>
-        <i class="fa-solid fa-circle"></i>
         <a class="page-links" href="">About Us</a>
       </ul>
     </div>

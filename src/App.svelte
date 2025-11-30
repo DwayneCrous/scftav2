@@ -3,6 +3,7 @@
   import HeroSection from "./components/HeroSection.svelte";
   import Features from "./components/Features.svelte";
   import AboutUs from "./components/AboutUs.svelte";
+  import Footer from "./components/Footer.svelte";
 </script>
 
 <main>
@@ -10,6 +11,7 @@
   <HeroSection />
   <Features />
   <AboutUs />
+  <Footer />
 </main>
 
 <style>
