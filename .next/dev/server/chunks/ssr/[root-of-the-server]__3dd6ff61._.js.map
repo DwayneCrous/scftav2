@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///home/dwayne/Desktop/Dev/scftav2/app/page.tsx"],"sourcesContent":["export default function Home() {\n  return (\n    <h1>hi</h1>\n  );\n}\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,yPAAC;kBAAG;;;;;;AAER"}}]
+}
