@@ -244,7 +244,7 @@ function HeroSection() {
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$components$2f$header$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["HeroHeader"], {}, void 0, false, {
                 fileName: "[project]/scftav2/components/hero-section.tsx",
                 lineNumber: 33,
-                columnNumber: 13
+                columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("main", {
                 className: "overflow-hidden",
@@ -258,27 +258,27 @@ function HeroSection() {
                             }, void 0, false, {
                                 fileName: "[project]/scftav2/components/hero-section.tsx",
                                 lineNumber: 38,
-                                columnNumber: 21
+                                columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "h-320 absolute left-0 top-0 w-60 -rotate-45 rounded-full bg-[radial-gradient(50%_50%_at_50%_50%,hsla(0,0%,85%,.06)_0,hsla(0,0%,45%,.02)_80%,transparent_100%)] [translate:5%_-50%]"
                             }, void 0, false, {
                                 fileName: "[project]/scftav2/components/hero-section.tsx",
                                 lineNumber: 39,
-                                columnNumber: 21
+                                columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "h-320 -translate-y-87.5 absolute left-0 top-0 w-60 -rotate-45 bg-[radial-gradient(50%_50%_at_50%_50%,hsla(0,0%,85%,.04)_0,hsla(0,0%,45%,.02)_80%,transparent_100%)]"
                             }, void 0, false, {
                                 fileName: "[project]/scftav2/components/hero-section.tsx",
                                 lineNumber: 40,
-                                columnNumber: 21
+                                columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/scftav2/components/hero-section.tsx",
                         lineNumber: 35,
-                        columnNumber: 17
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -319,12 +319,12 @@ function HeroSection() {
                                     }, void 0, false, {
                                         fileName: "[project]/scftav2/components/hero-section.tsx",
                                         lineNumber: 70,
-                                        columnNumber: 29
+                                        columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/scftav2/components/hero-section.tsx",
                                     lineNumber: 44,
-                                    columnNumber: 25
+                                    columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     "aria-hidden": true,
@@ -332,7 +332,7 @@ function HeroSection() {
                                 }, void 0, false, {
                                     fileName: "[project]/scftav2/components/hero-section.tsx",
                                     lineNumber: 79,
-                                    columnNumber: 25
+                                    columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "mx-auto max-w-7xl px-6",
@@ -347,18 +347,18 @@ function HeroSection() {
                                                     children: [
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                             className: "text-foreground text-sm",
-                                                            children: "Introducing Support for AI Models"
+                                                            children: "Now in full development"
                                                         }, void 0, false, {
                                                             fileName: "[project]/scftav2/components/hero-section.tsx",
                                                             lineNumber: 90,
-                                                            columnNumber: 41
+                                                            columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                             className: "dark:border-background block h-4 w-0.5 border-l bg-white dark:bg-zinc-700"
                                                         }, void 0, false, {
                                                             fileName: "[project]/scftav2/components/hero-section.tsx",
                                                             lineNumber: 91,
-                                                            columnNumber: 41
+                                                            columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                             className: "bg-background group-hover:bg-muted size-6 overflow-hidden rounded-full duration-500",
@@ -372,12 +372,12 @@ function HeroSection() {
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/scftav2/components/hero-section.tsx",
                                                                             lineNumber: 96,
-                                                                            columnNumber: 53
+                                                                            columnNumber: 27
                                                                         }, this)
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/scftav2/components/hero-section.tsx",
                                                                         lineNumber: 95,
-                                                                        columnNumber: 49
+                                                                        columnNumber: 25
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                         className: "flex size-6",
@@ -386,45 +386,45 @@ function HeroSection() {
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/scftav2/components/hero-section.tsx",
                                                                             lineNumber: 99,
-                                                                            columnNumber: 53
+                                                                            columnNumber: 27
                                                                         }, this)
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/scftav2/components/hero-section.tsx",
                                                                         lineNumber: 98,
-                                                                        columnNumber: 49
+                                                                        columnNumber: 25
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/scftav2/components/hero-section.tsx",
                                                                 lineNumber: 94,
-                                                                columnNumber: 45
+                                                                columnNumber: 23
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/scftav2/components/hero-section.tsx",
                                                             lineNumber: 93,
-                                                            columnNumber: 41
+                                                            columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/scftav2/components/hero-section.tsx",
                                                     lineNumber: 87,
-                                                    columnNumber: 37
+                                                    columnNumber: 19
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/scftav2/components/hero-section.tsx",
                                                 lineNumber: 86,
-                                                columnNumber: 33
+                                                columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$components$2f$ui$2f$text$2d$effect$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["TextEffect"], {
                                                 preset: "fade-in-blur",
                                                 speedSegment: 0.3,
                                                 as: "h1",
                                                 className: "mx-auto mt-8 max-w-4xl text-balance text-5xl max-md:font-semibold md:text-7xl lg:mt-16 xl:text-[5.25rem]",
-                                                children: "Modern Solutions for Customer Engagement"
+                                                children: "Easily and securely track your finances"
                                             }, void 0, false, {
                                                 fileName: "[project]/scftav2/components/hero-section.tsx",
                                                 lineNumber: 106,
-                                                columnNumber: 33
+                                                columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$components$2f$ui$2f$text$2d$effect$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["TextEffect"], {
                                                 per: "line",
@@ -433,11 +433,11 @@ function HeroSection() {
                                                 delay: 0.5,
                                                 as: "p",
                                                 className: "mx-auto mt-8 max-w-2xl text-balance text-lg",
-                                                children: "Highly customizable components for building modern websites and applications that look and feel the way you mean it."
+                                                children: "Track every cent, stay in control, and make smarter financial decisions—without the hassle. Our app brings all your accounts, expenses, and insights together in one simple dashboard, helping you manage your money with confidence."
                                             }, void 0, false, {
                                                 fileName: "[project]/scftav2/components/hero-section.tsx",
                                                 lineNumber: 113,
-                                                columnNumber: 33
+                                                columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$components$2f$ui$2f$animated$2d$group$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["AnimatedGroup"], {
                                                 variants: {
@@ -463,26 +463,26 @@ function HeroSection() {
                                                                 href: "#link",
                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                     className: "text-nowrap",
-                                                                    children: "Start Building"
+                                                                    children: "Sign up"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/scftav2/components/hero-section.tsx",
                                                                     lineNumber: 144,
-                                                                    columnNumber: 49
+                                                                    columnNumber: 25
                                                                 }, this)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/scftav2/components/hero-section.tsx",
                                                                 lineNumber: 143,
-                                                                columnNumber: 45
+                                                                columnNumber: 23
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/scftav2/components/hero-section.tsx",
                                                             lineNumber: 139,
-                                                            columnNumber: 41
+                                                            columnNumber: 21
                                                         }, this)
                                                     }, 1, false, {
                                                         fileName: "[project]/scftav2/components/hero-section.tsx",
                                                         lineNumber: 136,
-                                                        columnNumber: 37
+                                                        columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
                                                         asChild: true,
@@ -493,38 +493,38 @@ function HeroSection() {
                                                             href: "#link",
                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                 className: "text-nowrap",
-                                                                children: "Request a demo"
+                                                                children: "Login"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/scftav2/components/hero-section.tsx",
                                                                 lineNumber: 155,
-                                                                columnNumber: 45
+                                                                columnNumber: 23
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/scftav2/components/hero-section.tsx",
                                                             lineNumber: 154,
-                                                            columnNumber: 41
+                                                            columnNumber: 21
                                                         }, this)
                                                     }, 2, false, {
                                                         fileName: "[project]/scftav2/components/hero-section.tsx",
                                                         lineNumber: 148,
-                                                        columnNumber: 37
+                                                        columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/scftav2/components/hero-section.tsx",
                                                 lineNumber: 123,
-                                                columnNumber: 33
+                                                columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/scftav2/components/hero-section.tsx",
                                         lineNumber: 85,
-                                        columnNumber: 29
+                                        columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/scftav2/components/hero-section.tsx",
                                     lineNumber: 84,
-                                    columnNumber: 25
+                                    columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$components$2f$ui$2f$animated$2d$group$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["AnimatedGroup"], {
                                     variants: {
@@ -552,7 +552,7 @@ function HeroSection() {
                                                 }, void 0, false, {
                                                     fileName: "[project]/scftav2/components/hero-section.tsx",
                                                     lineNumber: 176,
-                                                    columnNumber: 37
+                                                    columnNumber: 19
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                                     className: "z-2 border-border/25 aspect-15/8 relative rounded-2xl border dark:hidden",
@@ -563,34 +563,34 @@ function HeroSection() {
                                                 }, void 0, false, {
                                                     fileName: "[project]/scftav2/components/hero-section.tsx",
                                                     lineNumber: 183,
-                                                    columnNumber: 37
+                                                    columnNumber: 19
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/scftav2/components/hero-section.tsx",
                                             lineNumber: 175,
-                                            columnNumber: 33
+                                            columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/scftav2/components/hero-section.tsx",
                                         lineNumber: 174,
-                                        columnNumber: 29
+                                        columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/scftav2/components/hero-section.tsx",
                                     lineNumber: 162,
-                                    columnNumber: 25
+                                    columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/scftav2/components/hero-section.tsx",
                             lineNumber: 43,
-                            columnNumber: 21
+                            columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/scftav2/components/hero-section.tsx",
                         lineNumber: 42,
-                        columnNumber: 17
+                        columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
                         className: "bg-background pb-16 pt-16 md:pb-32",
@@ -608,25 +608,25 @@ function HeroSection() {
                                             }, void 0, false, {
                                                 fileName: "[project]/scftav2/components/hero-section.tsx",
                                                 lineNumber: 201,
-                                                columnNumber: 33
+                                                columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$chevron$2d$right$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__ChevronRight$3e$__["ChevronRight"], {
                                                 className: "ml-1 inline-block size-3"
                                             }, void 0, false, {
                                                 fileName: "[project]/scftav2/components/hero-section.tsx",
                                                 lineNumber: 203,
-                                                columnNumber: 33
+                                                columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/scftav2/components/hero-section.tsx",
                                         lineNumber: 198,
-                                        columnNumber: 29
+                                        columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/scftav2/components/hero-section.tsx",
                                     lineNumber: 197,
-                                    columnNumber: 25
+                                    columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "group-hover:blur-xs mx-auto mt-12 grid max-w-2xl grid-cols-4 gap-x-12 gap-y-8 transition-all duration-500 group-hover:opacity-50 sm:gap-x-16 sm:gap-y-14",
@@ -642,12 +642,12 @@ function HeroSection() {
                                             }, void 0, false, {
                                                 fileName: "[project]/scftav2/components/hero-section.tsx",
                                                 lineNumber: 208,
-                                                columnNumber: 33
+                                                columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/hero-section.tsx",
                                             lineNumber: 207,
-                                            columnNumber: 29
+                                            columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "flex",
@@ -660,12 +660,12 @@ function HeroSection() {
                                             }, void 0, false, {
                                                 fileName: "[project]/scftav2/components/hero-section.tsx",
                                                 lineNumber: 218,
-                                                columnNumber: 33
+                                                columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/hero-section.tsx",
                                             lineNumber: 217,
-                                            columnNumber: 29
+                                            columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "flex",
@@ -678,12 +678,12 @@ function HeroSection() {
                                             }, void 0, false, {
                                                 fileName: "[project]/scftav2/components/hero-section.tsx",
                                                 lineNumber: 227,
-                                                columnNumber: 33
+                                                columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/hero-section.tsx",
                                             lineNumber: 226,
-                                            columnNumber: 29
+                                            columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "flex",
@@ -696,12 +696,12 @@ function HeroSection() {
                                             }, void 0, false, {
                                                 fileName: "[project]/scftav2/components/hero-section.tsx",
                                                 lineNumber: 236,
-                                                columnNumber: 33
+                                                columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/hero-section.tsx",
                                             lineNumber: 235,
-                                            columnNumber: 29
+                                            columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "flex",
@@ -714,12 +714,12 @@ function HeroSection() {
                                             }, void 0, false, {
                                                 fileName: "[project]/scftav2/components/hero-section.tsx",
                                                 lineNumber: 245,
-                                                columnNumber: 33
+                                                columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/hero-section.tsx",
                                             lineNumber: 244,
-                                            columnNumber: 29
+                                            columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "flex",
@@ -732,12 +732,12 @@ function HeroSection() {
                                             }, void 0, false, {
                                                 fileName: "[project]/scftav2/components/hero-section.tsx",
                                                 lineNumber: 254,
-                                                columnNumber: 33
+                                                columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/hero-section.tsx",
                                             lineNumber: 253,
-                                            columnNumber: 29
+                                            columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "flex",
@@ -750,12 +750,12 @@ function HeroSection() {
                                             }, void 0, false, {
                                                 fileName: "[project]/scftav2/components/hero-section.tsx",
                                                 lineNumber: 263,
-                                                columnNumber: 33
+                                                columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/hero-section.tsx",
                                             lineNumber: 262,
-                                            columnNumber: 29
+                                            columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                             className: "flex",
@@ -768,35 +768,35 @@ function HeroSection() {
                                             }, void 0, false, {
                                                 fileName: "[project]/scftav2/components/hero-section.tsx",
                                                 lineNumber: 273,
-                                                columnNumber: 33
+                                                columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/hero-section.tsx",
                                             lineNumber: 272,
-                                            columnNumber: 29
+                                            columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/scftav2/components/hero-section.tsx",
                                     lineNumber: 206,
-                                    columnNumber: 25
+                                    columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/scftav2/components/hero-section.tsx",
                             lineNumber: 196,
-                            columnNumber: 21
+                            columnNumber: 11
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/scftav2/components/hero-section.tsx",
                         lineNumber: 195,
-                        columnNumber: 17
+                        columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/scftav2/components/hero-section.tsx",
                 lineNumber: 34,
-                columnNumber: 13
+                columnNumber: 7
             }, this)
         ]
     }, void 0, true);
@@ -826,27 +826,18 @@ function Features() {
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "relative z-10 mx-auto max-w-xl space-y-6 text-center md:space-y-12",
-                    children: [
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                            className: "text-balance text-4xl font-medium lg:text-5xl",
-                            children: "The foundation for creative teams management"
-                        }, void 0, false, {
-                            fileName: "[project]/scftav2/components/features-4.tsx",
-                            lineNumber: 8,
-                            columnNumber: 21
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            children: "Lyra is evolving to be more than just the models. It supports an entire to the APIs and platforms helping developers and businesses innovate."
-                        }, void 0, false, {
-                            fileName: "[project]/scftav2/components/features-4.tsx",
-                            lineNumber: 9,
-                            columnNumber: 21
-                        }, this)
-                    ]
-                }, void 0, true, {
+                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                        className: "text-balance text-4xl font-medium lg:text-5xl",
+                        children: "Plenty of features to help track your finances"
+                    }, void 0, false, {
+                        fileName: "[project]/scftav2/components/features-4.tsx",
+                        lineNumber: 8,
+                        columnNumber: 11
+                    }, this)
+                }, void 0, false, {
                     fileName: "[project]/scftav2/components/features-4.tsx",
                     lineNumber: 7,
-                    columnNumber: 17
+                    columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "relative mx-auto grid max-w-4xl divide-x divide-y border *:p-12 sm:grid-cols-2 lg:grid-cols-3",
@@ -861,36 +852,36 @@ function Features() {
                                             className: "size-4"
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/features-4.tsx",
-                                            lineNumber: 15,
-                                            columnNumber: 29
+                                            lineNumber: 14,
+                                            columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                             className: "text-sm font-medium",
-                                            children: "Faaast"
+                                            children: "Add, edit and delete transactions"
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/features-4.tsx",
-                                            lineNumber: 16,
-                                            columnNumber: 29
+                                            lineNumber: 15,
+                                            columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/scftav2/components/features-4.tsx",
-                                    lineNumber: 14,
-                                    columnNumber: 25
+                                    lineNumber: 13,
+                                    columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "text-sm",
-                                    children: "It supports an entire helping developers and innovate."
+                                    children: "Functions to add and track transactionsm edit their details and delete them."
                                 }, void 0, false, {
                                     fileName: "[project]/scftav2/components/features-4.tsx",
-                                    lineNumber: 18,
-                                    columnNumber: 25
+                                    lineNumber: 17,
+                                    columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/scftav2/components/features-4.tsx",
-                            lineNumber: 13,
-                            columnNumber: 21
+                            lineNumber: 12,
+                            columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "space-y-2",
@@ -902,36 +893,36 @@ function Features() {
                                             className: "size-4"
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/features-4.tsx",
-                                            lineNumber: 22,
-                                            columnNumber: 29
+                                            lineNumber: 21,
+                                            columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                             className: "text-sm font-medium",
-                                            children: "Powerful"
+                                            children: "Categorize transactions"
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/features-4.tsx",
-                                            lineNumber: 23,
-                                            columnNumber: 29
+                                            lineNumber: 22,
+                                            columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/scftav2/components/features-4.tsx",
-                                    lineNumber: 21,
-                                    columnNumber: 25
+                                    lineNumber: 20,
+                                    columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "text-sm",
-                                    children: "It supports an entire helping developers and businesses."
+                                    children: "Keep your transactions organized by assigning them different categories."
                                 }, void 0, false, {
                                     fileName: "[project]/scftav2/components/features-4.tsx",
-                                    lineNumber: 25,
-                                    columnNumber: 25
+                                    lineNumber: 24,
+                                    columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/scftav2/components/features-4.tsx",
-                            lineNumber: 20,
-                            columnNumber: 21
+                            lineNumber: 19,
+                            columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "space-y-2",
@@ -943,36 +934,36 @@ function Features() {
                                             className: "size-4"
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/features-4.tsx",
-                                            lineNumber: 29,
-                                            columnNumber: 29
+                                            lineNumber: 28,
+                                            columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                             className: "text-sm font-medium",
-                                            children: "Security"
+                                            children: "Income vs Expenses tracking"
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/features-4.tsx",
-                                            lineNumber: 31,
-                                            columnNumber: 29
+                                            lineNumber: 30,
+                                            columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/scftav2/components/features-4.tsx",
-                                    lineNumber: 28,
-                                    columnNumber: 25
+                                    lineNumber: 27,
+                                    columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "text-sm",
-                                    children: "It supports an helping developers businesses."
+                                    children: "View the difference in your income and expenses and see spending habits."
                                 }, void 0, false, {
                                     fileName: "[project]/scftav2/components/features-4.tsx",
-                                    lineNumber: 33,
-                                    columnNumber: 25
+                                    lineNumber: 32,
+                                    columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/scftav2/components/features-4.tsx",
-                            lineNumber: 27,
-                            columnNumber: 21
+                            lineNumber: 26,
+                            columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "space-y-2",
@@ -984,36 +975,36 @@ function Features() {
                                             className: "size-4"
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/features-4.tsx",
-                                            lineNumber: 37,
-                                            columnNumber: 29
+                                            lineNumber: 36,
+                                            columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                             className: "text-sm font-medium",
-                                            children: "Customization"
+                                            children: "Multiple Accounts"
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/features-4.tsx",
-                                            lineNumber: 39,
-                                            columnNumber: 29
+                                            lineNumber: 38,
+                                            columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/scftav2/components/features-4.tsx",
-                                    lineNumber: 36,
-                                    columnNumber: 25
+                                    lineNumber: 35,
+                                    columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "text-sm",
-                                    children: "It supports helping developers and businesses innovate."
+                                    children: "Track transactions in different bank accounts"
                                 }, void 0, false, {
                                     fileName: "[project]/scftav2/components/features-4.tsx",
-                                    lineNumber: 41,
-                                    columnNumber: 25
+                                    lineNumber: 40,
+                                    columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/scftav2/components/features-4.tsx",
-                            lineNumber: 35,
-                            columnNumber: 21
+                            lineNumber: 34,
+                            columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "space-y-2",
@@ -1025,36 +1016,36 @@ function Features() {
                                             className: "size-4"
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/features-4.tsx",
-                                            lineNumber: 45,
-                                            columnNumber: 29
+                                            lineNumber: 44,
+                                            columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                             className: "text-sm font-medium",
-                                            children: "Control"
+                                            children: "Overview Dashboard"
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/features-4.tsx",
-                                            lineNumber: 47,
-                                            columnNumber: 29
+                                            lineNumber: 46,
+                                            columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/scftav2/components/features-4.tsx",
-                                    lineNumber: 44,
-                                    columnNumber: 25
+                                    lineNumber: 43,
+                                    columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "text-sm",
-                                    children: "It supports helping developers and businesses innovate."
+                                    children: "See a quick overview of your recent transactions and other statistics."
                                 }, void 0, false, {
                                     fileName: "[project]/scftav2/components/features-4.tsx",
-                                    lineNumber: 49,
-                                    columnNumber: 25
+                                    lineNumber: 48,
+                                    columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/scftav2/components/features-4.tsx",
-                            lineNumber: 43,
-                            columnNumber: 21
+                            lineNumber: 42,
+                            columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "space-y-2",
@@ -1066,53 +1057,53 @@ function Features() {
                                             className: "size-4"
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/features-4.tsx",
-                                            lineNumber: 53,
-                                            columnNumber: 29
+                                            lineNumber: 52,
+                                            columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                             className: "text-sm font-medium",
-                                            children: "Built for AI"
+                                            children: "Auto totals and summaries"
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/features-4.tsx",
-                                            lineNumber: 55,
-                                            columnNumber: 29
+                                            lineNumber: 54,
+                                            columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/scftav2/components/features-4.tsx",
-                                    lineNumber: 52,
-                                    columnNumber: 25
+                                    lineNumber: 51,
+                                    columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "text-sm",
-                                    children: "It supports helping developers and businesses innovate."
+                                    children: "Automatic totals and summaries of transactions at the end of the month."
                                 }, void 0, false, {
                                     fileName: "[project]/scftav2/components/features-4.tsx",
-                                    lineNumber: 57,
-                                    columnNumber: 25
+                                    lineNumber: 56,
+                                    columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/scftav2/components/features-4.tsx",
-                            lineNumber: 51,
-                            columnNumber: 21
+                            lineNumber: 50,
+                            columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/scftav2/components/features-4.tsx",
-                    lineNumber: 12,
-                    columnNumber: 17
+                    lineNumber: 11,
+                    columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/scftav2/components/features-4.tsx",
             lineNumber: 6,
-            columnNumber: 13
+            columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/scftav2/components/features-4.tsx",
         lineNumber: 5,
-        columnNumber: 9
+        columnNumber: 5
     }, this);
 }
 }),

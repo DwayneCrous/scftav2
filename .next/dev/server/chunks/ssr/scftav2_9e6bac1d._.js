@@ -776,19 +776,19 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$components$2f$smo
 ;
 const menuItems = [
     {
+        name: 'Tech Stack',
+        href: '#link'
+    },
+    {
         name: 'Features',
         href: '#link'
     },
     {
-        name: 'Solution',
+        name: "FAQ's",
         href: '#link'
     },
     {
-        name: 'Pricing',
-        href: '#link'
-    },
-    {
-        name: 'About',
+        name: 'About Us',
         href: '#link'
     }
 ];
@@ -821,12 +821,12 @@ const HeroHeader = ()=>{
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$components$2f$logo$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Logo"], {}, void 0, false, {
                                         fileName: "[project]/scftav2/components/header.tsx",
                                         lineNumber: 40,
-                                        columnNumber: 33
+                                        columnNumber: 17
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/scftav2/components/header.tsx",
                                     lineNumber: 36,
-                                    columnNumber: 29
+                                    columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                     onClick: ()=>setMenuState(!menuState),
@@ -838,26 +838,26 @@ const HeroHeader = ()=>{
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/header.tsx",
                                             lineNumber: 47,
-                                            columnNumber: 33
+                                            columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$x$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__X$3e$__["X"], {
                                             className: "in-data-[state=active]:rotate-0 in-data-[state=active]:scale-100 in-data-[state=active]:opacity-100 absolute inset-0 m-auto size-6 -rotate-180 scale-0 opacity-0 duration-200"
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/header.tsx",
                                             lineNumber: 48,
-                                            columnNumber: 33
+                                            columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/scftav2/components/header.tsx",
                                     lineNumber: 43,
-                                    columnNumber: 29
+                                    columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/scftav2/components/header.tsx",
                             lineNumber: 35,
-                            columnNumber: 25
+                            columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "absolute inset-0 m-auto hidden size-fit lg:block",
@@ -872,27 +872,27 @@ const HeroHeader = ()=>{
                                             }, void 0, false, {
                                                 fileName: "[project]/scftav2/components/header.tsx",
                                                 lineNumber: 59,
-                                                columnNumber: 45
+                                                columnNumber: 23
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/header.tsx",
                                             lineNumber: 56,
-                                            columnNumber: 41
+                                            columnNumber: 21
                                         }, ("TURBOPACK compile-time value", void 0))
                                     }, index, false, {
                                         fileName: "[project]/scftav2/components/header.tsx",
                                         lineNumber: 55,
-                                        columnNumber: 37
+                                        columnNumber: 19
                                     }, ("TURBOPACK compile-time value", void 0)))
                             }, void 0, false, {
                                 fileName: "[project]/scftav2/components/header.tsx",
                                 lineNumber: 53,
-                                columnNumber: 29
+                                columnNumber: 15
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/scftav2/components/header.tsx",
                             lineNumber: 52,
-                            columnNumber: 25
+                            columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "bg-background in-data-[state=active]:block lg:in-data-[state=active]:flex mb-6 hidden w-full flex-wrap items-center justify-end space-y-8 rounded-3xl border p-6 shadow-2xl shadow-zinc-300/20 md:flex-nowrap lg:m-0 lg:flex lg:w-fit lg:gap-6 lg:space-y-0 lg:border-transparent lg:bg-transparent lg:p-0 lg:shadow-none dark:shadow-none dark:lg:bg-transparent",
@@ -910,27 +910,27 @@ const HeroHeader = ()=>{
                                                     }, void 0, false, {
                                                         fileName: "[project]/scftav2/components/header.tsx",
                                                         lineNumber: 74,
-                                                        columnNumber: 49
+                                                        columnNumber: 25
                                                     }, ("TURBOPACK compile-time value", void 0))
                                                 }, void 0, false, {
                                                     fileName: "[project]/scftav2/components/header.tsx",
                                                     lineNumber: 71,
-                                                    columnNumber: 45
+                                                    columnNumber: 23
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, index, false, {
                                                 fileName: "[project]/scftav2/components/header.tsx",
                                                 lineNumber: 70,
-                                                columnNumber: 41
+                                                columnNumber: 21
                                             }, ("TURBOPACK compile-time value", void 0)))
                                     }, void 0, false, {
                                         fileName: "[project]/scftav2/components/header.tsx",
                                         lineNumber: 68,
-                                        columnNumber: 33
+                                        columnNumber: 17
                                     }, ("TURBOPACK compile-time value", void 0))
                                 }, void 0, false, {
                                     fileName: "[project]/scftav2/components/header.tsx",
                                     lineNumber: 67,
-                                    columnNumber: 29
+                                    columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "flex w-full flex-col space-y-3 sm:flex-row sm:gap-3 sm:space-y-0 md:w-fit",
@@ -947,17 +947,17 @@ const HeroHeader = ()=>{
                                                 }, void 0, false, {
                                                     fileName: "[project]/scftav2/components/header.tsx",
                                                     lineNumber: 87,
-                                                    columnNumber: 41
+                                                    columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/scftav2/components/header.tsx",
                                                 lineNumber: 86,
-                                                columnNumber: 37
+                                                columnNumber: 19
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/header.tsx",
                                             lineNumber: 81,
-                                            columnNumber: 33
+                                            columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
                                             asChild: true,
@@ -970,17 +970,17 @@ const HeroHeader = ()=>{
                                                 }, void 0, false, {
                                                     fileName: "[project]/scftav2/components/header.tsx",
                                                     lineNumber: 95,
-                                                    columnNumber: 41
+                                                    columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/scftav2/components/header.tsx",
                                                 lineNumber: 94,
-                                                columnNumber: 37
+                                                columnNumber: 19
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/header.tsx",
                                             lineNumber: 90,
-                                            columnNumber: 33
+                                            columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
                                             asChild: true,
@@ -993,55 +993,55 @@ const HeroHeader = ()=>{
                                                 }, void 0, false, {
                                                     fileName: "[project]/scftav2/components/header.tsx",
                                                     lineNumber: 103,
-                                                    columnNumber: 41
+                                                    columnNumber: 21
                                                 }, ("TURBOPACK compile-time value", void 0))
                                             }, void 0, false, {
                                                 fileName: "[project]/scftav2/components/header.tsx",
                                                 lineNumber: 102,
-                                                columnNumber: 37
+                                                columnNumber: 19
                                             }, ("TURBOPACK compile-time value", void 0))
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/header.tsx",
                                             lineNumber: 98,
-                                            columnNumber: 33
+                                            columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0)),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$components$2f$smoothui$2f$theme$2f$mode$2d$toggle$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["ModeToggle"], {}, void 0, false, {
                                             fileName: "[project]/scftav2/components/header.tsx",
                                             lineNumber: 106,
-                                            columnNumber: 33
+                                            columnNumber: 17
                                         }, ("TURBOPACK compile-time value", void 0))
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/scftav2/components/header.tsx",
                                     lineNumber: 80,
-                                    columnNumber: 29
+                                    columnNumber: 15
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/scftav2/components/header.tsx",
                             lineNumber: 66,
-                            columnNumber: 25
+                            columnNumber: 13
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/scftav2/components/header.tsx",
                     lineNumber: 34,
-                    columnNumber: 21
+                    columnNumber: 11
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/scftav2/components/header.tsx",
                 lineNumber: 33,
-                columnNumber: 17
+                columnNumber: 9
             }, ("TURBOPACK compile-time value", void 0))
         }, void 0, false, {
             fileName: "[project]/scftav2/components/header.tsx",
             lineNumber: 30,
-            columnNumber: 13
+            columnNumber: 7
         }, ("TURBOPACK compile-time value", void 0))
     }, void 0, false, {
         fileName: "[project]/scftav2/components/header.tsx",
         lineNumber: 29,
-        columnNumber: 9
+        columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };
 }),
