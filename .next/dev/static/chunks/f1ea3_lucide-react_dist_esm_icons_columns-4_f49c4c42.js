@@ -1,0 +1,58 @@
+(globalThis.TURBOPACK || (globalThis.TURBOPACK = [])).push([typeof document === "object" ? document.currentScript : undefined,
+"[project]/scftav2/node_modules/lucide-react/dist/esm/icons/columns-4.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+/**
+ * @license lucide-react v0.555.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */ __turbopack_context__.s([
+    "__iconNode",
+    ()=>__iconNode,
+    "default",
+    ()=>Columns4
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$createLucideIcon$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/scftav2/node_modules/lucide-react/dist/esm/createLucideIcon.js [app-client] (ecmascript)");
+;
+const __iconNode = [
+    [
+        "rect",
+        {
+            width: "18",
+            height: "18",
+            x: "3",
+            y: "3",
+            rx: "2",
+            key: "afitv7"
+        }
+    ],
+    [
+        "path",
+        {
+            d: "M7.5 3v18",
+            key: "w0wo6v"
+        }
+    ],
+    [
+        "path",
+        {
+            d: "M12 3v18",
+            key: "108xh3"
+        }
+    ],
+    [
+        "path",
+        {
+            d: "M16.5 3v18",
+            key: "10tjh1"
+        }
+    ]
+];
+const Columns4 = (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$createLucideIcon$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"])("columns-4", __iconNode);
+;
+ //# sourceMappingURL=columns-4.js.map
+}),
+]);
+
+//# sourceMappingURL=f1ea3_lucide-react_dist_esm_icons_columns-4_f49c4c42.js.map

@@ -1,0 +1,7 @@
+(globalThis.TURBOPACK_CHUNK_LISTS || (globalThis.TURBOPACK_CHUNK_LISTS = [])).push({
+    script: typeof document === "object" ? document.currentScript : undefined,
+    chunks: [
+  "static/chunks/f1ea3_lucide-react_dist_esm_icons_battery-medium_ba4bcf8f.js"
+],
+    source: "dynamic"
+});

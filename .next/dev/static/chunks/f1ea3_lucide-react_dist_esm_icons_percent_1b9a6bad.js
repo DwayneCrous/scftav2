@@ -1,0 +1,54 @@
+(globalThis.TURBOPACK || (globalThis.TURBOPACK = [])).push([typeof document === "object" ? document.currentScript : undefined,
+"[project]/scftav2/node_modules/lucide-react/dist/esm/icons/percent.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+/**
+ * @license lucide-react v0.555.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */ __turbopack_context__.s([
+    "__iconNode",
+    ()=>__iconNode,
+    "default",
+    ()=>Percent
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$createLucideIcon$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/scftav2/node_modules/lucide-react/dist/esm/createLucideIcon.js [app-client] (ecmascript)");
+;
+const __iconNode = [
+    [
+        "line",
+        {
+            x1: "19",
+            x2: "5",
+            y1: "5",
+            y2: "19",
+            key: "1x9vlm"
+        }
+    ],
+    [
+        "circle",
+        {
+            cx: "6.5",
+            cy: "6.5",
+            r: "2.5",
+            key: "4mh3h7"
+        }
+    ],
+    [
+        "circle",
+        {
+            cx: "17.5",
+            cy: "17.5",
+            r: "2.5",
+            key: "1mdrzq"
+        }
+    ]
+];
+const Percent = (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$createLucideIcon$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"])("percent", __iconNode);
+;
+ //# sourceMappingURL=percent.js.map
+}),
+]);
+
+//# sourceMappingURL=f1ea3_lucide-react_dist_esm_icons_percent_1b9a6bad.js.map

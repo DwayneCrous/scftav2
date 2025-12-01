@@ -1,0 +1,63 @@
+module.exports = [
+"[project]/scftav2/node_modules/lucide-react/dist/esm/icons/focus.js [app-ssr] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+/**
+ * @license lucide-react v0.555.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */ __turbopack_context__.s([
+    "__iconNode",
+    ()=>__iconNode,
+    "default",
+    ()=>Focus
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$createLucideIcon$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/scftav2/node_modules/lucide-react/dist/esm/createLucideIcon.js [app-ssr] (ecmascript)");
+;
+const __iconNode = [
+    [
+        "circle",
+        {
+            cx: "12",
+            cy: "12",
+            r: "3",
+            key: "1v7zrd"
+        }
+    ],
+    [
+        "path",
+        {
+            d: "M3 7V5a2 2 0 0 1 2-2h2",
+            key: "aa7l1z"
+        }
+    ],
+    [
+        "path",
+        {
+            d: "M17 3h2a2 2 0 0 1 2 2v2",
+            key: "4qcy5o"
+        }
+    ],
+    [
+        "path",
+        {
+            d: "M21 17v2a2 2 0 0 1-2 2h-2",
+            key: "6vwrx8"
+        }
+    ],
+    [
+        "path",
+        {
+            d: "M7 21H5a2 2 0 0 1-2-2v-2",
+            key: "ioqczr"
+        }
+    ]
+];
+const Focus = (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$createLucideIcon$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"])("focus", __iconNode);
+;
+ //# sourceMappingURL=focus.js.map
+}),
+];
+
+//# sourceMappingURL=f1ea3_lucide-react_dist_esm_icons_focus_71f60bc5.js.map

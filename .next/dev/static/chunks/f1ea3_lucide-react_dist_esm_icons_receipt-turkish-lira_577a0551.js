@@ -1,0 +1,47 @@
+(globalThis.TURBOPACK || (globalThis.TURBOPACK = [])).push([typeof document === "object" ? document.currentScript : undefined,
+"[project]/scftav2/node_modules/lucide-react/dist/esm/icons/receipt-turkish-lira.js [app-client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+/**
+ * @license lucide-react v0.555.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */ __turbopack_context__.s([
+    "__iconNode",
+    ()=>__iconNode,
+    "default",
+    ()=>ReceiptTurkishLira
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$createLucideIcon$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/scftav2/node_modules/lucide-react/dist/esm/createLucideIcon.js [app-client] (ecmascript)");
+;
+const __iconNode = [
+    [
+        "path",
+        {
+            d: "M10 6.5v11a5.5 5.5 0 0 0 5.5-5.5",
+            key: "nw10mp"
+        }
+    ],
+    [
+        "path",
+        {
+            d: "m14 8-6 3",
+            key: "2tb98i"
+        }
+    ],
+    [
+        "path",
+        {
+            d: "M4 2v20l2-1 2 1 2-1 2 1 2-1 2 1 2-1 2 1V2l-2 1-2-1-2 1-2-1-2 1-2-1-2 1z",
+            key: "io9ry0"
+        }
+    ]
+];
+const ReceiptTurkishLira = (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$createLucideIcon$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"])("receipt-turkish-lira", __iconNode);
+;
+ //# sourceMappingURL=receipt-turkish-lira.js.map
+}),
+]);
+
+//# sourceMappingURL=f1ea3_lucide-react_dist_esm_icons_receipt-turkish-lira_577a0551.js.map
