@@ -1238,32 +1238,32 @@ function FAQsThree() {
         {
             id: 'item-1',
             icon: 'clock',
-            question: 'What are your business hours?',
-            answer: 'Our customer service team is available Monday through Friday from 9:00 AM to 8:00 PM EST, and weekends from 10:00 AM to 6:00 PM EST. During holidays, hours may vary and will be posted on our website.'
+            question: 'What does this app actually do?',
+            answer: 'It helps you track spending, manage accounts, and understand where your money goes all in one simple dashboard.'
         },
         {
             id: 'item-2',
             icon: 'credit-card',
-            question: 'How do subscription payments work?',
-            answer: 'Subscription payments are automatically charged to your default payment method on the same day each month or year, depending on your billing cycle. You can update your payment information and view billing history in your account dashboard.'
+            question: 'Is my financial data secure?',
+            answer: 'Yes. All data is encrypted, and nothing is shared with third parties. You stay in control of your info.'
         },
         {
             id: 'item-3',
             icon: 'truck',
-            question: 'Can I expedite my shipping?',
-            answer: 'Yes, we offer several expedited shipping options at checkout. Next-day and 2-day shipping are available for most U.S. addresses if orders are placed before 2:00 PM EST. International expedited shipping options vary by destination.'
+            question: 'Do I need to connect my bank account?',
+            answer: 'Nope. Everthing is local and manual for maximum security and ease of use.'
         },
         {
             id: 'item-4',
             icon: 'globe',
-            question: 'Do you offer localized support?',
-            answer: 'We offer multilingual support in English, Spanish, French, German, and Japanese. Our support team can assist customers in these languages via email, chat, and phone during standard business hours for each respective region.'
+            question: 'Does the app cost anything?',
+            answer: 'This app is completely free to use.'
         },
         {
             id: 'item-5',
             icon: 'package',
-            question: 'How do I track my order?',
-            answer: 'Once your order ships, you\'ll receive a confirmation email with a tracking number. You can use this number on our website or the carrier\'s website to track your package. You can also view order status and tracking information in your account dashboard under "Order History".'
+            question: 'Can I export my data?',
+            answer: 'Yes — CSV, PDF, or JSON depending on what you prefer.'
         }
     ];
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -1284,7 +1284,7 @@ function FAQsThree() {
                                 }, void 0, false, {
                                     fileName: "[project]/scftav2/components/faqs-3.tsx",
                                     lineNumber: 54,
-                                    columnNumber: 29
+                                    columnNumber: 15
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "text-muted-foreground mt-4",
@@ -1298,24 +1298,24 @@ function FAQsThree() {
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/faqs-3.tsx",
                                             lineNumber: 57,
-                                            columnNumber: 33
+                                            columnNumber: 17
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/scftav2/components/faqs-3.tsx",
                                     lineNumber: 55,
-                                    columnNumber: 29
+                                    columnNumber: 15
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/scftav2/components/faqs-3.tsx",
                             lineNumber: 53,
-                            columnNumber: 25
+                            columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/scftav2/components/faqs-3.tsx",
                         lineNumber: 52,
-                        columnNumber: 21
+                        columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "md:w-2/3",
@@ -1340,12 +1340,12 @@ function FAQsThree() {
                                                         }, void 0, false, {
                                                             fileName: "[project]/scftav2/components/faqs-3.tsx",
                                                             lineNumber: 78,
-                                                            columnNumber: 49
+                                                            columnNumber: 25
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/scftav2/components/faqs-3.tsx",
                                                         lineNumber: 77,
-                                                        columnNumber: 45
+                                                        columnNumber: 23
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                         className: "text-base",
@@ -1353,18 +1353,18 @@ function FAQsThree() {
                                                     }, void 0, false, {
                                                         fileName: "[project]/scftav2/components/faqs-3.tsx",
                                                         lineNumber: 83,
-                                                        columnNumber: 45
+                                                        columnNumber: 23
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/scftav2/components/faqs-3.tsx",
                                                 lineNumber: 76,
-                                                columnNumber: 41
+                                                columnNumber: 21
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/faqs-3.tsx",
                                             lineNumber: 75,
-                                            columnNumber: 37
+                                            columnNumber: 19
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$scftav2$2f$components$2f$ui$2f$accordion$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["AccordionContent"], {
                                             className: "pb-5",
@@ -1376,49 +1376,49 @@ function FAQsThree() {
                                                 }, void 0, false, {
                                                     fileName: "[project]/scftav2/components/faqs-3.tsx",
                                                     lineNumber: 88,
-                                                    columnNumber: 45
+                                                    columnNumber: 23
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/scftav2/components/faqs-3.tsx",
                                                 lineNumber: 87,
-                                                columnNumber: 41
+                                                columnNumber: 21
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/scftav2/components/faqs-3.tsx",
                                             lineNumber: 86,
-                                            columnNumber: 37
+                                            columnNumber: 19
                                         }, this)
                                     ]
                                 }, item.id, true, {
                                     fileName: "[project]/scftav2/components/faqs-3.tsx",
                                     lineNumber: 71,
-                                    columnNumber: 33
+                                    columnNumber: 17
                                 }, this))
                         }, void 0, false, {
                             fileName: "[project]/scftav2/components/faqs-3.tsx",
                             lineNumber: 66,
-                            columnNumber: 25
+                            columnNumber: 13
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/scftav2/components/faqs-3.tsx",
                         lineNumber: 65,
-                        columnNumber: 21
+                        columnNumber: 11
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/scftav2/components/faqs-3.tsx",
                 lineNumber: 51,
-                columnNumber: 17
+                columnNumber: 9
             }, this)
         }, void 0, false, {
             fileName: "[project]/scftav2/components/faqs-3.tsx",
             lineNumber: 50,
-            columnNumber: 13
+            columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/scftav2/components/faqs-3.tsx",
         lineNumber: 49,
-        columnNumber: 9
+        columnNumber: 5
     }, this);
 }
 _c = FAQsThree;
