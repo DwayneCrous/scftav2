@@ -80,6 +80,22 @@
       {/each}
     </div>
   </div>
+
+  <!-- Features -->
+  <div class="features">
+    <h1>Features</h1>
+    <div class="features-grid">
+      <div class="div1">1</div>
+      <div class="div2">2</div>
+      <div class="div3">3</div>
+      <div class="div4">4</div>
+      <div class="div5">5</div>
+      <div class="div6">6</div>
+      <div class="div7">7</div>
+      <div class="div8">8</div>
+      <div class="div9">9</div>
+    </div>
+  </div>
 </main>
 
 <style>
@@ -259,6 +275,37 @@
   .slide img:hover {
     transform: translateY(-2px);
     filter: brightness(1) contrast(1.15);
+  }
+
+  .features-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 8px;
+  }
+
+  .div4 {
+    grid-row-start: 2;
+  }
+
+  .div5 {
+    grid-row-start: 2;
+  }
+
+  .div6 {
+    grid-row-start: 2;
+  }
+
+  .div7 {
+    grid-row-start: 3;
+  }
+
+  .div8 {
+    grid-row-start: 3;
+  }
+
+  .div9 {
+    grid-row-start: 3;
   }
 
   @keyframes scroll {
