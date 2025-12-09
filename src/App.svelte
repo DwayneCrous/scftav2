@@ -85,15 +85,15 @@
   <div class="features">
     <h1>Features</h1>
     <div class="features-grid">
-      <div class="div1">1</div>
-      <div class="div2">2</div>
-      <div class="div3">3</div>
-      <div class="div4">4</div>
-      <div class="div5">5</div>
-      <div class="div6">6</div>
-      <div class="div7">7</div>
-      <div class="div8">8</div>
-      <div class="div9">9</div>
+      <div class="div1 features-item">Add, edit, delete transactions</div>
+      <div class="div2 features-item">Categorize transactions</div>
+      <div class="div3 features-item">Income vs. Expenses tracking</div>
+      <div class="div4 features-item">Multiple accounts</div>
+      <div class="div5 features-item">Transfer between accounts</div>
+      <div class="div6 features-item">Overview Dashboard</div>
+      <div class="div7 features-item">Automatic totals and summaries</div>
+      <div class="div8 features-item">Export data (PDF or CSV)</div>
+      <div class="div9 features-item">Search and filter transactions</div>
     </div>
   </div>
 </main>
@@ -209,7 +209,7 @@
     margin: 0 auto 60px auto;
     overflow: hidden;
 
-    border-radius: 16px;
+    border-radius: 12px;
 
     background: rgba(34, 34, 34, 0.4);
     backdrop-filter: blur(12px);
@@ -282,6 +282,30 @@
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(3, 1fr);
     gap: 8px;
+  }
+
+  .features-item {
+    text-align: center;
+    background-color: #444;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: var(--shadow-s);
+    border-radius: 12px;
+  }
+
+  .features-item:hover {
+    box-shadow: var(--shadow-m);
+    transform: translateY(-2px);
+    transition:
+      box-shadow 0.25s ease,
+      transform 0.2s ease;
+  }
+
+  .features h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: white;
   }
 
   .div4 {
