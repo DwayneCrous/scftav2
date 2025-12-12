@@ -49,7 +49,7 @@
     <div class="center-text">
       <div class="links">
         <a href="">Home</a>
-        <a href="">Tech Stack</a>
+        <a href="">Built With</a>
         <a href="">Features</a>
         <a href="">FAQ's</a>
         <a href="">About Us</a>
@@ -94,6 +94,39 @@
       <div class="div7 features-item">Automatic totals and summaries</div>
       <div class="div8 features-item">Export data (PDF or CSV)</div>
       <div class="div9 features-item">Search and filter transactions</div>
+    </div>
+  </div>
+
+  <!-- FAQ's -->
+  <div class="faqs">
+    <div class="faq-left-section">
+      <h1>Frequently Asked Questions</h1>
+      <p>Got any questions, well here are some answers</p>
+    </div>
+    <div class="faq-right-section">
+      <div class="faq-question">
+        <h1>What is this app for?</h1>
+        <p>
+          This app helps you track your spending, manage your accounts, and
+          understand where your money is going.
+        </p>
+      </div>
+      <div class="faq-question">
+        <h1>Is my data safe?</h1>
+        <p>
+          Yes. Your data never leaves your device and is not uploaded anywhere.
+        </p>
+      </div>
+      <div class="faq-question">
+        <h1>What happens if I clear my browser storage?</h1>
+        <p>
+          All your saved transactions will be deleted and the app will reset.
+        </p>
+      </div>
+      <div class="faq-question">
+        <h1>Does this cost anything?</h1>
+        <p>No. It is completely free to use.</p>
+      </div>
     </div>
   </div>
 </main>
