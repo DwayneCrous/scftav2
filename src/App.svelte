@@ -365,6 +365,31 @@
     grid-row-start: 3;
   }
 
+  .faqs {
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 0;
+  }
+
+  .faq-left-section {
+    margin-left: 350px;
+    color: white;
+  }
+
+  .faq-right-section {
+    margin-right: 150px;
+    background-color: #444;
+    border-radius: 12px;
+    padding: 0 20px;
+    box-shadow: var(--shadow-s);
+  }
+
+  .faq-question {
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
   @keyframes scroll {
     0% {
       transform: translateX(0);
