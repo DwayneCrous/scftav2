@@ -129,6 +129,26 @@
       </div>
     </div>
   </div>
+
+  <!-- About Us -->
+
+  <!-- Footer Section -->
+  <div class="footer">
+    <div class="logo">
+      <img src="" alt="" />
+    </div>
+    <div class="page-links">
+      <a href="">Home</a>
+      <a href="">Built With</a>
+      <a href="">Features</a>
+      <a href="">FAQ's</a>
+      <a href="">About Us</a>
+    </div>
+    <div class="social-links"></div>
+    <div class="copyright">
+      <p>© 2025 SCFTA V2, All rights reserved</p>
+    </div>
+  </div>
 </main>
 
 <style>
