@@ -1,4 +1,7 @@
 <script lang="ts">
+  import { Github } from "@lucide/svelte";
+  import { Mail } from "@lucide/svelte";
+
   const slides = [
     {
       src: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg",
@@ -135,7 +138,7 @@
   <!-- Footer Section -->
   <div class="footer">
     <div class="logo">
-      <img src="" alt="" />
+      <h1>SCFTA V2</h1>
     </div>
     <div class="page-links">
       <a href="">Home</a>
@@ -144,7 +147,10 @@
       <a href="">FAQ's</a>
       <a href="">About Us</a>
     </div>
-    <div class="social-links"></div>
+    <div class="social-links">
+      <a href="https://github.com/DwayneCrous"><Github /> Github</a>
+      <a href="mailto:dwaynerheeder@proton.me"><Mail /> Email</a>
+    </div>
     <div class="copyright">
       <p>© 2025 SCFTA V2, All rights reserved</p>
     </div>
@@ -261,6 +267,7 @@
     height: 100px;
     margin: 0 auto 60px auto;
     overflow: hidden;
+    z-index: -1;
 
     border-radius: 12px;
 
@@ -410,6 +417,33 @@
     padding-bottom: 20px;
   }
 
+  .footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    color: white;
+
+    padding: 80px;
+    background: rgba(34, 34, 34, 0.4);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+  }
+
+  .social-links {
+    display: flex;
+    gap: 20px;
+  }
+
+  .page-links {
+    display: flex;
+    gap: 20px;
+  }
+
+  .page-links a:hover {
+    opacity: 0.7;
+  }
   @keyframes scroll {
     0% {
       transform: translateX(0);
